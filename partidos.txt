@@ -1,0 +1,50 @@
+Valencia::Betis::1::0
+Betis::Osasuna::1::0
+Atletico Madrid::Zaragoza::0::0
+Zaragoza::Valencia::2::2
+Mallorca::Deportivo::0::1
+Deportivo::Atletico Madrid::1::0
+Alaves::Barcelona::0::0
+Barcelona::Mallorca::2::0
+Athletic::Real Sociedad::3::0
+Real Sociedad::Alaves::2::1
+Espanyol::Getafe::0::2
+Getafe::Athletic::1::1
+Celta::Malaga::2::0::2
+Malaga::Espanyol::1::2
+Cadiz::Real Madrid::1::2
+Real Madrid::Celta::2::3
+Sevilla::Racing Santander::1::0
+Racing Santander::Cadiz::0::1
+Osasuna::Villarreal::2::1::1
+Villarreal::Sevilla::1::1
+Betis::Zaragoza::0::0
+Zaragoza::Osasuna::3::1
+Valencia::Deportivo::2::2
+Deportivo::Betis::1::1
+Atletico Madrid::Barcelona::2::1
+Barcelona::Valencia::2::2
+Mallorca::Real Sociedad::5::2
+Real Sociedad::Atletico Madrid::3::2
+Alaves::Getafe::3::4
+Getafe::Mallorca::1::1
+Athletic::Malaga::1::2
+Malaga::Alaves::0::0
+Espanyol::Real Madrid::1::0
+Real Madrid::Athletic::3::1
+Celta::Racing Santander::0::1
+Racing Santander::Espanyol::1::0
+Cadiz::Villarreal::1::1
+Villarreal::Celta::1::2
+Osasuna::Sevilla::1::0
+Sevilla::Cadiz::0::0
+Zaragoza::Deportivo::1::1
+Deportivo::Osasuna::0::1
+Betis::Barcelona::1::4
+Barcelona::Zaragoza::2::2
+Valencia::Real Sociedad::2::1
+Real Sociedad::Betis::1::1
+Atletico Madrid::Getafe::0::1
+Getafe::Valencia::2::1
+Mallorca::Malaga::1::4
+Malaga::Atletico Madrid::0::2
